@@ -52,9 +52,9 @@
 
     <!-- meta -->
     <g font-size="10" letter-spacing="1" fill="#9fd8cf">
-      <text x="170" y="228">INST  <tspan fill="#f2fbf9" font-weight="600">QMUL</tspan></text>
+      <text x="170" y="228">UNI  <tspan fill="#f2fbf9" font-weight="600">QMUL</tspan></text>
       <text x="170" y="244">CLASS <tspan fill="#f2fbf9" font-weight="600">2030</tspan></text>
-      <text x="170" y="260">UNI    <tspan fill="#f2fbf9" font-weight="600">VT-2026</tspan></text>
+      <text x="170" y="260">ID    <tspan fill="#f2fbf9" font-weight="600">VT-2026</tspan></text>
     </g>
 
     <!-- barcode -->
